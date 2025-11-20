@@ -23,6 +23,9 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 
+# Ignore api build artifacts
+api/node_modules/
+
 # Ignore frontend build artifacts
 frontend/node_modules/
 frontend/dist/
